@@ -1,1 +1,2 @@
 # IBM-HR-Attrition-Rate-Analysis
+This analysis aims to investigate the factors that contribute to employee attrition using a dataset of 1471 employees with 34 feature variables related to personal information, work experience, and attendance rate. Employee attrition is a critical concern for many companies as it can result in a loss of talent, disruption to business operations, and increased costs associated with hiring and training new employees.
